@@ -1,4 +1,18 @@
 header {
-  background: url(../images/header.jpg) no-repeat center center; }
+  background: url(../images/header.jpg) no-repeat center center;
+  color: #fff;
+  text-align: right;
+  height: 276px; }
+  header .container {
+    padding: 50px 70px 0 0; }
+  header h1 {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 48px; }
+  header h2 {
+    font-size: 32px;
+    font-weight: 400; }
+  header .right {
+    width: 50%; }
 
 /*# sourceMappingURL=header.css.map */

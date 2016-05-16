@@ -1,3 +1,21 @@
 header{
   background: url(../images/header.jpg) no-repeat center center;
+  color: #fff;
+  text-align: right;
+  height: 276px;
+  .container{
+    padding: 50px 70px 0 0;
+  }
+  h1{
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 48px;  
+  }
+  h2{
+    font-size: 32px;
+    font-weight: 400;
+  }
+  .right{
+    width: 50%;
+  }
 }
