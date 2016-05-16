@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+/* -------------------------------------- *\
+    Headings
+\* -------------------------------------- */
+h1, h2, h3, h4, h5 h6 {
+  font: "Open Sans", sans-serif; }
+
+header {
+  background: url(../images/header.jpg) no-repeat center center; }
+
+/*# sourceMappingURL=style.css.map */
